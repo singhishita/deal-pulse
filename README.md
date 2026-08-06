@@ -1,4 +1,4 @@
-````
+````markdown
 # Deal Pulse
  
 An automated weekday briefing on M&A, deal technology, AI, and AI policy.
