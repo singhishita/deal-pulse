@@ -1,0 +1,31 @@
+{
+  "lookback_hours": 30,
+  "max_items_per_topic": 12,
+  "topics": [
+    {
+      "name": "M&A and Deals",
+      "query": "mergers acquisitions deal announced OR acquisition completed",
+      "focus": "Deal announcements, completions, and terminations. Prioritise transactions with disclosed values, cross-border deals, and anything involving technology assets or carve-outs."
+    },
+    {
+      "name": "Deal Tech and Diligence",
+      "query": "technology due diligence OR IT integration merger OR carve-out separation",
+      "focus": "Anything about the technology dimension of transactions — IT diligence, systems integration, TSAs, separation, cloud migration in deal context."
+    },
+    {
+      "name": "Consulting Research",
+      "query": "McKinsey OR Bain OR BCG OR Deloitte OR EY report study findings",
+      "focus": "New research, reports, and surveys published by major consulting firms. Skip firm PR, partner hires, and award announcements — only substantive research."
+    },
+    {
+      "name": "AI Industry",
+      "query": "artificial intelligence enterprise adoption OR AI model release",
+      "focus": "Model releases, enterprise AI deployment, funding rounds, and capability shifts. Skip speculative think-pieces and opinion columns."
+    },
+    {
+      "name": "AI Policy and Regulation",
+      "query": "AI regulation policy act legislation government",
+      "focus": "Regulatory developments across jurisdictions. Note which country or bloc, and what stage the measure is at — proposed, passed, in force."
+    }
+  ]
+}
