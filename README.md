@@ -50,5 +50,6 @@ Python · feedparser · Google Gemini API · GitHub Actions
 
 ## Caveat
 
+
 Summaries are AI-generated and may misrepresent sources. Verify anything you plan to
 act on.
