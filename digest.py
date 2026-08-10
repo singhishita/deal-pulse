@@ -20,7 +20,7 @@ cutoff = datetime.now(timezone.utc) - timedelta(hours=config["lookback_hours"])
 
 
 def fetch(topic):
-    """Pull recent, deduplicated headlines for one topic."""
+    """Pull recent, deduplicated headlines for one topic. Make sure they were not published at an older date, and are recent only."""
     url = GOOGLE_NEWS.format(query=urllib.parse.quote(topic["query"]))
     feed = feedparser.parse(url)
 
