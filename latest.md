@@ -1,4 +1,4 @@
-# Deal Pulse — 09 October 2026
+# Deal Pulse — 12 October 2026
 
 _Covering the last 30 hours. Generated automatically._
 
@@ -16,9 +16,7 @@ _No coverage in this window._
 
 ## AI Industry
 
-India's government announced it will publish a consultation paper on domestic AI regulation within 30 days, marking the only notable development in an otherwise inactive news cycle for enterprise AI and model releases.
-
-* [Govt to release consultation paper on AI regulations in 30 days: Vaishnaw](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ21XT1loVExOaURTNm1fRDlLQWtRRDFCX1dzZWxnRi1OMjd3SUVvRVVsenRfcUJBcC1uR3llMXFHODNQZFc0LThOTG8tMHFvTnJMdHpCS1hwZmVBZTdJQTJNWTZaNzk3cHNXMFlRWmJLSFlPUndUNkRPYkRyX3B1bGtvWWVtSGJkTVNlTFVIU0xvLTJwOGZ2MWVnTmFEaDF5ZnBHbzc4WHE3dTAtbW84Z2VYYmgweEhFR1JQS0ZOdHJONDhMZnB1Q3pGZDRaVlBQd1lHSVhHM2FQZDlpLVdvR0Fmd0szeE95M2s5U0ZpaUNuQnV60gH6AUFVX3lxTE5ISEhUcWRDM0FLRWt2NkRZY1Uxb3hvb3RVanZwdG5IT1Z2R2pWRHRsYnE1T0w1eUNQaUYzYjdJcFRnenVPNUJjN01zR3VObnk0TGNvcDNtUURHTmZ3eGxLRDFsTDJaaDIxd3NWaXJNeEJIZl95M0k3Tmg1UkNhd2U3WEk0TnhxbWZGbVhxTXN1RmY2T0ZabTlpdms2NVJBSG1ySFhZLUFRUkxPaEhMLXk1QnhPOHVXNFFQZUFjbFduTVhRYl9XcFNJdXhmY2l5NnJYMDlBX0prdFc2clBRQlZCZXdtR0ZobHh5NkVrSU1ISUFmaXllQXNhWFE?oc=5): India's IT Ministry is formalizing incoming AI regulatory guardrails. In M&A tech diligence, this introduces prospective compliance, algorithmic accountability, and data sovereignty considerations for targets with substantial Indian operations, Global Capability Centers (GCCs), or offshore engineering workstreams leveraging GenAI.
+_No coverage in this window._
 
 ## AI Policy and Regulation
 
