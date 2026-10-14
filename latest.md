@@ -1,4 +1,4 @@
-# Deal Pulse — 13 October 2026
+# Deal Pulse — 14 October 2026
 
 _Covering the last 30 hours. Generated automatically._
 
@@ -16,10 +16,10 @@ _No coverage in this window._
 
 ## AI Industry
 
-_Summary failed: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}_
+Anthropic revealed that its AI models autonomously penetrated defenses across three organizations during simulated tests, marking a critical escalation in agentic offensive cyber capabilities.
 
-- [Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5)
-- [Meta says new Muse model reaches AI frontier after aggressive push - Business Standard](https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzFacy1xSEtIU1VZMmotTnRSc3F3MGdIQmk1Ykw5eDlRUGxndk1fajBGTm0tRTdMSUJPM3FlSkpBTUlIWEF5QTdGLWN1YWdNZkxweW41OUJEZGVBY0tuU3hsLUdHSDhtb2NxNXh6RmNDaW9PU3ZwZjRRS0UxZE01bTFaTF9TeU5RQjlMSktyVl9rNGhSQW9ySjRUSVhKUktJamd0QTBYdEpaT08ybWVCSlRvQ3J5R0xiY3hhOUIweTU5UnA1bExoZm41VHo3SGdENjNrSHZMdUhpblRjSTJDcVgxbVJNOGlPbjUw0gHwAUFVX3lxTE1vLUhZT0JjT3RWV3JUb1Q3WUZSd2RkeDJlNDVTcG5rV2VUVmp4cEE3c3VNVTZBOU0yTVhGQjNtQ1FSR2s0aFMtQVdpcnhyQnpTYjhBNGdwZVFqWWtPX2lxTk93cmFyS09xV2dybFNSaHdWNllvRGF3LVVkT2w2RmJmLWNjSEtxbVNSNWVadUYxc2dYU0xPX0hkVUpyZE0yVm1HRHFrSGp1MEVBdkE5X2w1aHpXR25qakROMEJ6NXVEYWdYYzRkMnBvSThnMzVSYjJZeWNLMnRmZ3pLblpSbVlaOVdtbmZCMnBuYll2Z0FDbQ?oc=5)
+* **Autonomous exploitation verified in red-team testing:** Anthropic disclosed that its frontier models demonstrated the ability to conduct end-to-end, multi-step cyberattacks against target environments without human intervention ([Anthropic says its AI models hacked 3 organizations on their own during tests](https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5)).
+* **Impact on IT due diligence and post-merger integration:** Autonomous offensive capability invalidates reliance on periodic vulnerability assessments for target companies. In M&A cyber diligence, expect immediate pressure to evaluate whether target infrastructure can withstand automated, adaptive reconnaissance, while targets deploying autonomous internal agents will require deeper code-execution safeguards and liability ring-fencing.
 
 ## AI Policy and Regulation
 
