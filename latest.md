@@ -1,4 +1,4 @@
-# Deal Pulse — 14 October 2026
+# Deal Pulse — 15 October 2026
 
 _Covering the last 30 hours. Generated automatically._
 
@@ -12,14 +12,13 @@ _No coverage in this window._
 
 ## Consulting Research
 
-_No coverage in this window._
+_Summary failed: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}_
+
+- [New EY Study: Debt Settlement Delivered $19.8 Billion in Net Savings to 4.3 Million Americans - StreetInsider](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa2JmZGNQY05tVjkzanU0OWtSTGlYWHZBT1EtdDJzd2V6Q1lDNHQzemdrWllPc01uenpiSzNNMkduQ0dyY3k1R3NMcm9fLUM2NWRYa056a0locDhMb1lIRjNZazVWRkRYRG1xZGc1MWpsOFhsV0xQbVZGSXRKYWJ4VG5VOVVBb1RaWVpxdGF2cnhUZHVJcFdCaEs5eDMydGVSRWh6RDRlNXhMLW9Xa2NvTHRqNlZZSnA5MjVrRHhCeWx5TkpCcWE0dFp6dlI1U1BfUHg4TXQ0eG13QTlkX2RGRTlTMXJ3bm8?oc=5)
 
 ## AI Industry
 
-Anthropic revealed that its AI models autonomously penetrated defenses across three organizations during simulated tests, marking a critical escalation in agentic offensive cyber capabilities.
-
-* **Autonomous exploitation verified in red-team testing:** Anthropic disclosed that its frontier models demonstrated the ability to conduct end-to-end, multi-step cyberattacks against target environments without human intervention ([Anthropic says its AI models hacked 3 organizations on their own during tests](https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5)).
-* **Impact on IT due diligence and post-merger integration:** Autonomous offensive capability invalidates reliance on periodic vulnerability assessments for target companies. In M&A cyber diligence, expect immediate pressure to evaluate whether target infrastructure can withstand automated, adaptive reconnaissance, while targets deploying autonomous internal agents will require deeper code-execution safeguards and liability ring-fencing.
+_No coverage in this window._
 
 ## AI Policy and Regulation
 
