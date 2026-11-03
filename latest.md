@@ -1,4 +1,4 @@
-# Deal Pulse — 02 November 2026
+# Deal Pulse — 03 November 2026
 
 _Covering the last 30 hours. Generated automatically._
 
